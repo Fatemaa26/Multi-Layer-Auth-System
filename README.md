@@ -3,7 +3,7 @@
 
 | Login Screen | Registration Screen |
 |---|---|
-| ![Login Preview](Login.png) | ![Register Preview](Registeration.png) |
+| ![Login Preview](Login.jpeg) | ![Register Preview](Registeration.jpeg) |
 
 A professional-grade secure portal built with Python and CustomTkinter. This project demonstrates a "Defense in Depth" strategy by using a 4-layer cryptographic pipeline to protect user credentials.
 
