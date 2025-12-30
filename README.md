@@ -10,6 +10,8 @@ A professional-grade secure portal built with **Python** and **CustomTkinter**. 
 ### User Registration
 ![Register Preview](Registeration.jpeg)
 
+
+
 ## 🛠 Features
 * **4-Layer Security Pipeline:** Every password is processed through a sequential chain of SHA-512, DES, AES, and RSA.
 * **Modern UI:** Sleek, dark-mode "Secure Portal" interface with an aqua-accent aesthetic.
@@ -23,6 +25,8 @@ A professional-grade secure portal built with **Python** and **CustomTkinter**. 
 2. **DES Encryption:** The hash is encrypted using Data Encryption Standard.
 3. **AES Encryption:** A layer of AES is added for modern symmetric security.
 4. **RSA Encryption:** The data is finally wrapped in an Asymmetric layer before being stored in the `user_vault.txt`.
+
+
 
 ## 🚀 How to Run
 
