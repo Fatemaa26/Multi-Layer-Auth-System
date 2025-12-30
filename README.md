@@ -41,4 +41,4 @@ A professional-grade secure portal built with **Python** and **CustomTkinter**. 
 5. **Launch the App:**
    
    ```bash
-   python auth_system.py   
+   python updated_authenticator_system.py
