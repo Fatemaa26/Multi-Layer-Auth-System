@@ -33,5 +33,5 @@ A professional-grade secure portal built with **Python** and **CustomTkinter**. 
    ```bash
    pip install -r requirements.txt
 3. **Launch the App:**
-4. ```bash
+ ```bash
    python auth_system.py   
