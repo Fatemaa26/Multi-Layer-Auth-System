@@ -1,9 +1,13 @@
 🔐 Multi-Layer Cryptographic Authentication System
+
 ## 🖥️ User Interface Preview
 
-| Login Screen | Registration Screen |
-|---|---|
-| ![Login Preview](Login.jpeg) | ![Register Preview](Registeration.jpeg) |
+### Login Portal
+![Login Preview](Login.jpeg)
+
+### User Registration
+![Register Preview](Registeration.jpeg)
+
 
 A professional-grade secure portal built with Python and CustomTkinter. This project demonstrates a "Defense in Depth" strategy by using a 4-layer cryptographic pipeline to protect user credentials.
 
