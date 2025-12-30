@@ -25,6 +25,13 @@ A professional-grade secure portal built with **Python** and **CustomTkinter**. 
 4. **RSA Encryption:** The data is finally wrapped in an Asymmetric layer before being stored in the `user_vault.txt`.
 
 ## 🚀 How to Run
+
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/Fatemaa26/Multi-Layer-Auth-System.git](https://github.com/Fatemaa26/Multi-Layer-Auth-System.git)
+   git clone https://github.com/Fatemaa26/Multi-Layer-Auth-System.git
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+3. **Launch the App:**
+4. ```bash
+   python auth_system.py   
