@@ -1,4 +1,4 @@
-##🔐 Multi-Layer Cryptographic Authentication System
+## 🔐 Multi-Layer Cryptographic Authentication System
 
 ## 🖥️ User Interface Preview
 
